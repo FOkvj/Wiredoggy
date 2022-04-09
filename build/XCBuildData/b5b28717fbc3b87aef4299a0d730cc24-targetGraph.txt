@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+HelperTool in Sniffer, no dependencies
+Sniffer in Sniffer, depends on:
+HelperTool in Sniffer (implicit dependency via file 'HelperTool' in build phase 'Copy Files')
+SnifferUITests in Sniffer, depends on:
+Sniffer in Sniffer (explicit)

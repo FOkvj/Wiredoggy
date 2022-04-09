@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/MainController.m \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/MainController.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/xcselect.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/kcdata.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/uuid.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/netinet6.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/machine.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/device.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/mach_debug.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/mach_machine.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/mach.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/bank.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/darwin_posix_sys_types.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/netinet.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/net.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/darwin_cdefs.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/SharedData.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/Entity/Device.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/PackegeUtils/PackegeUtils.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/EthernetHeader.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ViewDelegate/ItemDelegate.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/Entity/OutLineViewItem.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/IPHeader.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/TcpHeader.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/TCPTimeStampOption.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ViewDelegate/InfoDelegate.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/UDPHeader.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/ARPHeader.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/IPv6Header.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/ProtocolHeader/ICMPHeader.h \
+  /Users/dzc/Desktop/网络攻防基础/实验1/SnifferMac/Sniffer/Sniffer/Entity/TableViewRow.h

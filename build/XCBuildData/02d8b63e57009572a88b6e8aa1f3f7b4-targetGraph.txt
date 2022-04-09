@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Sniffer in Sniffer, no dependencies
+SnifferTests in Sniffer, depends on:
+Sniffer in Sniffer (explicit)
+SnifferUITests in Sniffer, depends on:
+Sniffer in Sniffer (explicit)
